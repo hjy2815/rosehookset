@@ -428,10 +428,13 @@
                 "right": "-1rem",
                 "top": "-1rem"
               }
+            },
+            "P": {
+              "color": "#000000"
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Quote Color\" name=\"quoteColor\" value=\"#232323\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-5\" data-multiline mbr-article>\n                <blockquote><p><b>HOOK SET (</b>훅셋<b>) 이란 ?</b></p><p><br></p><p>재봉틀의 구조적 한계를 극복한 혁신적인 핵심부품인 <b>밑실공급장치 \n</b></p></blockquote><span mbr-icon class=\"mbr-iconfont inactive mbri-quote-right right-top\"><br></span>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"6\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Quote Color\" name=\"quoteColor\" value=\"#232323\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-5\" data-multiline mbr-article>\n                <blockquote><p><b>HOOK SET (</b>훅셋<b>) 이란 ?</b></p><p><br></p><p>재봉틀의 구조적 한계를 극복한 혁신적인 핵심부품인 <b>밑실공급장치 \n</b></p></blockquote><span mbr-icon class=\"mbr-iconfont inactive mbri-quote-right right-top\"><br></span>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "qTk5y5rCvC",
           "_protectedParams": [],
           "_global": false,
